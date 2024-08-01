@@ -1,0 +1,37 @@
+Timestamp,Activity,Model,Operation,Graph,Ranking,Index Building Time (s),Index Size (MB)  
+2024-08-01 13:10:16,Model Inference,models/D+1_avg_aggre_D_no_normal.pt,,,,,  
+2024-08-01 13:11:11,Compilation,,,,,,,  
+2024-08-01 13:11:12,2-Hop Labeling Start,,,,,,,  
+2024-08-01 13:11:20,2-Hop Labeling Finish,,,USR.txt,USR_ranking.txt,8.598740,48.172545  
+2024-08-01 13:11:32,2-Hop Labeling Finish,,,HEP.txt,HEP_ranking.txt,20.342147,46.845026  
+2024-08-01 13:12:09,2-Hop Labeling Finish,,,GN.txt,GN_ranking.txt,57.038422,132.740493  
+2024-08-01 13:49:48,Model Inference,models/D+1_SUM_aggre_D_no_normal.pt,,,,,  
+2024-08-01 13:50:02,Compilation,,,,,,,  
+2024-08-01 13:50:09,2-Hop Labeling Finish,,,USR.txt,USR_ranking.txt,6.647259,42.373395  
+2024-08-01 13:50:25,2-Hop Labeling Finish,,,HEP.txt,HEP_ranking.txt,21.907529,46.825838  
+2024-08-01 13:51:45,2-Hop Labeling Finish,,,GN.txt,GN_ranking.txt,102.243652,186.392303  
+2024-08-01 15:03:23,Model Inference,models/D+1_AVG_aggre_D_use_normal.pt,,,,,  
+2024-08-01 15:03:38,Compilation,,,,,,,  
+2024-08-01 15:03:46,2-Hop Labeling Finish,,,USR.txt,USR_ranking.txt,7.693685,45.225081  
+2024-08-01 15:04:15,2-Hop Labeling Finish,,,HEP.txt,HEP_ranking.txt,36.617602,64.284320  
+2024-08-01 15:04:49,2-Hop Labeling Finish,,,GN.txt,GN_ranking.txt,70.286488,150.015860  
+2024-08-01 16:02:37,Model Inference,models/D+1_SUM_aggre_D_use_normal.pt,,,,,  
+2024-08-01 16:02:51,Compilation,,,,,,,  
+2024-08-01 16:02:57,2-Hop Labeling Finish,,,USR.txt,USR_ranking.txt,5.701071,38.429241  
+2024-08-01 16:03:27,2-Hop Labeling Finish,,,HEP.txt,HEP_ranking.txt,34.965279,60.483470  
+2024-08-01 16:04:30,2-Hop Labeling Finish,,,GN.txt,GN_ranking.txt,97.839746,181.533971  
+2024-08-01 17:07:24,Model Inference,models/baseline.pt,,,,,  
+2024-08-01 17:07:42,Compilation,,,,,,,  
+2024-08-01 17:07:51,2-Hop Labeling Finish,,,USR.txt,USR_ranking.txt,8.454797,43.890629  
+2024-08-01 17:08:51,2-Hop Labeling Finish,,,HEP.txt,HEP_ranking.txt,67.456539,94.125886  
+2024-08-01 17:09:15,2-Hop Labeling Finish,,,GN.txt,GN_ranking.txt,91.688601,175.672412  
+2024-08-01 18:03:08,Model Inference,models/baseline.pt,,,,,  
+2024-08-01 18:03:22,Compilation,,,,,,,  
+2024-08-01 18:03:29,2-Hop Labeling Finish,,,USR.txt,USR_ranking.txt,6.864301,43.903265  
+2024-08-01 18:03:42,2-Hop Labeling Finish,,,HEP.txt,HEP_ranking.txt,19.424675,44.060817  
+2024-08-01 18:04:22,2-Hop Labeling Finish,,,GN.txt,GN_ranking.txt,59.346750,135.217991  
+2024-08-01 22:00:34,Model Inference,models/rebuild_no_normal.pt,,,,,  
+2024-08-01 22:00:51,Compilation,,,,,,,  
+2024-08-01 22:00:58,2-Hop Labeling Finish,,,USR.txt,USR_ranking.txt,6.289499,39.711485  
+2024-08-01 22:03:01,2-Hop Labeling Finish,,,GN.txt,GN_ranking.txt,128.948131,213.655434  
+2024-08-01 22:04:08,2-Hop Labeling Finish,,,HEP.txt,HEP_ranking.txt,196.591256,185.687866  
